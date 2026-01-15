@@ -5,22 +5,6 @@ I'm a software developer focused on building interactive web experiences, visual
 
 ---
 
-## 🔭 What I do
-- Build front-end and full-stack projects using JavaScript / TypeScript, HTML, and CSS.
-- Prototype algorithms, simulations, and visualizations (Boids, Minesweeper solver, audio emotion visualizer).
-- Explore systems and research-oriented projects in Python (distributed streaming, ML detectors).
-
----
-
-## 🛠️ Tech & tools
-- Languages: JavaScript, TypeScript, Python, HTML, CSS, TeX
-- Tools: Node.js, npm, browser APIs, common web toolchains; basic Docker usage
-- Areas: Front-end development, data/visualization, algorithms, small ML/ML-prototype projects
-
----
-
-## 🤝 Collaborate / Contact
-- Best way to reach me is via GitHub: open an issue or a PR on any repo, or send a message from my profile.
 - If you'd like to collaborate or have suggestions, I'm open to small projects, learning-focused collaborations, and mentorship opportunities.
 
 ---
