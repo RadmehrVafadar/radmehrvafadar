@@ -5,8 +5,4 @@ I'm a software developer focused on building interactive web experiences, visual
 
 ---
 
-- If you'd like to collaborate or have suggestions, I'm open to small projects, learning-focused collaborations, and mentorship opportunities.
-
----
-
 Thanks for visiting, feel free to explore the repositories and say hi!
