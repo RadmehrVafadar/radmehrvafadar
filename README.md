@@ -4,8 +4,6 @@
 I'm a software engineer. 
 
 Building is my 
-Love Language
-
 ---
 
 Thanks for visiting, feel free to explore the repositories and say hi!
