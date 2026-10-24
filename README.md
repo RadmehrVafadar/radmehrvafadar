@@ -2,4 +2,4 @@
 
 I'm a software engineer.
 
-Portfolio: https://www.radmehr.ca/
+Checkout my Portfolio: [radmehr.ca](https://www.radmehr.ca/)
